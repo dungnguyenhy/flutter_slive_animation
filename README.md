@@ -16,3 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/dungnguyenhy/flutter_slive_animation/blob/master/assets/Flutter_animation.png" alt="Alt text" title="image">
+
+<a href="https://youtu.be/rBoeuvZpGh8" rel="nofollow">Youtube Video</a>
+
+
+<a href="https://www.youtube.com/playlist?list=PLMnk_S3sc1nB0xxXdPOVKa1Mp7f8zGzqE" rel="nofollow">Checkout my Youtube channel</a>
+
+
+
+
